@@ -16,12 +16,8 @@ public class Test_Git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Fixed this shit");
-<<<<<<< HEAD
-        
-        
-=======
         System.out.println("Fixed mate!");
->>>>>>> e958986d2dd89ad0925461fcfdc7c9b4c413caaf
+
     }
     public void meth(){}
 }
