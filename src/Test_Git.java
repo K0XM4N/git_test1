@@ -16,6 +16,7 @@ public class Test_Git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Fixed this shit");
+        System.out.println("Fixed mate!");
     }
     
 }
