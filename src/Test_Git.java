@@ -15,6 +15,7 @@ public class Test_Git {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.println.out("Hey, you know whos gay?");
     }
     
 }
